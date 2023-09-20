@@ -1,0 +1,9 @@
+D:\東\小程式\幾A幾B\幾A幾B\bin\Debug\幾A幾B.exe
+D:\東\小程式\幾A幾B\幾A幾B\bin\Debug\幾A幾B.pdb
+D:\東\小程式\幾A幾B\幾A幾B\bin\Debug\幾A幾B.xml
+D:\東\小程式\幾A幾B\幾A幾B\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\東\小程式\幾A幾B\幾A幾B\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\東\小程式\幾A幾B\幾A幾B\obj\x86\Debug\幾A幾B.vbproj.GenerateResource.Cache
+D:\東\小程式\幾A幾B\幾A幾B\obj\x86\Debug\幾A幾B.exe
+D:\東\小程式\幾A幾B\幾A幾B\obj\x86\Debug\幾A幾B.xml
+D:\東\小程式\幾A幾B\幾A幾B\obj\x86\Debug\幾A幾B.pdb
